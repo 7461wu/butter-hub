@@ -1,0 +1,5 @@
+getgenv().name1 = "1a"
+getgenv().name2 = "2a"
+getgenv().name3 = "3a"
+getgenv().name4 = "4a"
+getgenv().name5 = "5a"
