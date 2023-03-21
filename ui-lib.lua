@@ -30,7 +30,7 @@ local Mouse = LocalPlayer:GetMouse()
 local HTTPService = game:GetService("HttpService")
 
 local Library = {
-	Themes = {
+	Themes = {~
 		Legacy = {
             		Main = Color3.fromRGB(20, 20, 20),
            		Secondary = Color3.fromRGB(30, 30, 30),
